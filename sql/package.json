@@ -1,0 +1,17 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "Node test",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "eslint": "^5.12.1",
+    "mysql": "^2.16.0",
+    "sequelize": "^4.42.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
